@@ -1,0 +1,17 @@
+body{
+    align-self: center;
+    color: #444;
+    font-family: Arial, Helvetica;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.pizzaria{
+    width: 100%;
+}
+footer{
+    font-size: 80%;
+}
+.link{
+    right: auto;
+}
