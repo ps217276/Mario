@@ -19,47 +19,5 @@ footer{
     body{margin-left: 10px;
     margin-right: 10px;
     }
-    .pizza{
-        width: 10%;
-    }
-    .margarita{
-        float: right;
-        font-size: 65%;
-    }
-    p{
-        font-size: 65%;
-    }
-    .napolitana{
-        float: right;
-        font-size: 65%;
-    }
-    .text{
-        float: right;
-        margin-right: 15%;
-        margin-top: -15%;
-    }
-}
-.pizza{
-    width: 20%;
-}
-.margarita{
-    float: right;
-    margin-right: 50%;
-}
-.text{
-    float: right;
-    margin-right: 6%;
-    margin-top: -15%;
-}
-.pizza2{
-    width: 20%;
-}
-.napolitana{
-    float: right;
-    margin-right: 50%;
-}
-.text2{
-    float: right;
 
-    margin-top: -15%;
 }
