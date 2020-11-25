@@ -1,145 +1,39 @@
-@media screen and (max-width: 800px)  { 
-    body{margin-left: 10px;
-    margin-right: 10px;
-    }
-    .pizza{
-        width: 10%;
-    }
-    .margarita{
-        font-size: 60%;
-    }
-    p{
-        font-size: 60%;
-    }
-    .napolitana{
-        font-size: 60%;
-    }
-    .hawaii{
-        font-size: 60%;
-    }
-    .calzone{
-        font-size: 60%;
-    }
-    .peperone{
-        font-size: 60%;
-    }
-    .funghi{
-        font-size: 60%;
-        margin-top: -15%;
-    }
-    .quattrostagioni{
-        font-size: 60%;
-        margin-top: -15%;
-    }
-    .prosciutto{
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+  }
+.grid-item {
+text-align: center;
+
+}
+.grid-container1 {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+  }
+img{
+    width: 200px;
+    height: 200px;
+}
+.kleineletters{
     font-size: 60%;
-    margin-top: -15%;
-    }
-    .diavola{
-        font-size: 60%;
-        margin-top: -15%;
-    }
-    .tonno{
-        font-size: 60%;
-        margin-top: -15%;
-    }
-    .frutedimare{
-        font-size: 60%;
-        margin-top: -15%;
-    }
-    
 }
-.pizza{
-    width: 20%;
-}
-.margarita{
-    float: right;
-    margin-right: 51%;
-}
-.text{
-    float: right;
-    margin-right: 6%;
-    margin-top: -15%;
+h1{
+    font-size: 200%;
 }
 
-.napolitana{
-    float: right;
-    margin-right: 50%;
+@media screen and (max-width: 800px) { 
+h2{
+    font-size: 60%;
 }
-.text2{
-    float: right;
-    margin-top: -15%;
+p{
+    font-size: 55%;
+}
+img{
+    width: 50px;
+    height: 50px;
+}
+.kleineletters{
+    font-size: 40%;
 }
 
-.hawaii{
-    float: right;
-    margin-right: 56%;
-}
-.text3{
-    float: right;
-    margin-top: -15%;
-    margin-right: 3%;
-}
-.peperone{
-    float: right;
-    margin-right: 52%;
-}
-.text4{
-    float: right;
-    margin-top: -15%;
-    margin-right: 3%;
-}
-.funghi{
-    float: right;
-    margin-right: 57%;
-}
-.text5{
-    float: right;
-    margin-top: -15%;
-    margin-right: 3%;
-}
-.quattrostagioni{
-    float: right;
-    margin-right: 45%;
-}
-.text6{
-    float: right;
-    margin-top: -15%;
-    margin-right: 7%;
-}
-.prosciutto{
-    float: right;
-    margin-right: 52%;
-}
-.text7{
-    float: right;
-    margin-top: -15%;
-    margin-right: 7%;
-}
-.diavola{
-    float: right;
-    margin-right: 56%;
-}
-.text8{
-    float: right;
-    margin-top: -15%;
-    margin-right: 10%;
-}
-.tonno{
-    float: right;
-    margin-right: 57%;
-}
-.text9{
-    float: right;
-    margin-top: -15%;
-    margin-right: 10%;
-}
-.frutedimare{
-    float: right;
-    margin-right: 57%;
-}
-.text10{
-    float: right;
-    margin-top: -15%;
-    margin-right: 10%;
 }
